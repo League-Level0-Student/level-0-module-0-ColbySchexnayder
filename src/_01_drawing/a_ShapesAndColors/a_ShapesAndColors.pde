@@ -2,9 +2,9 @@
 // The grey square that appears has sides that are 100 pixels long
 
 // 2. Code a size command to make it big enough for your picture
-
+  
 //    The size command looks like this:      
-  size (100,200);
+  size (500, 500);
 //    Try putting different numbers in the parentheses.
 //    See if you can figure out which number is the width, and which is the height
 
