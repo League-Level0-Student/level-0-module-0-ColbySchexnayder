@@ -6,7 +6,7 @@ void setup() {
 
  // The following code loads the image into the program
   PImage baby = loadImage("fistPump.png");
-   
+    
   // 3. Resize the baby image to be the same size as the sketch
   //    Use the baby.resize() command for this
 
