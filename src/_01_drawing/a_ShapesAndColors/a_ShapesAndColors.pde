@@ -19,7 +19,7 @@
 //    Change the numbers and re-run the program to see what happens.
 
 // 4. Now add a rect command to draw a rectangle.
-fill(#3E07B7); 
+fill(#175525); 
 //    The rect command looks like this:       
 rect(250,250, 100,100);
 
