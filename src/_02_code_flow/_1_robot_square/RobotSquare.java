@@ -21,14 +21,17 @@ public class RobotSquare {
 		rob.penDown(); 
 		// SPEED. Make the robot move quickly.
 		// Use the rob.setSpeed(); command.
-		rob.setSpeed(5);
+		rob.setSpeed(100);
 			// DRAW. Draw a line
 			// Use the rob.move(); command
-		rob.move(100);
+		int count = 0;
+		while (count < 4){
+			rob.move(100);
 			// TURN. Turn 90 degrees
 			// Use the rob.turn(); command
-		rob.turn(90);
-			
+			rob.turn(90);
+			count = count + 1;
+		}
 		
 
 		// LOOP. Now put the DRAW and TURN code into a for loop to repeat 4 times.
