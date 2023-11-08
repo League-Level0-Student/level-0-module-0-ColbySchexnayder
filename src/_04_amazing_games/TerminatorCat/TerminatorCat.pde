@@ -38,6 +38,7 @@ void draw() {
     background(cat);
     x = 118;
     y = 185;
+    
   }
 }
 
